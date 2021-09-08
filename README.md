@@ -3,7 +3,7 @@
 ### SOBRE
 Um aplicativo desenvolvido em React Native durante o evento Next Level Week Together ministrado pela Rocketseat. Ele integra diferentes bibliotecas e apis para garantir o aprendizado e oferecer uma boa interface para o usuário final;
 
-<img src="images/banner.jpeg" alt="Tela Principal" width="100%" align="center"/>
+<img src="images/banner.png" alt="Tela Principal" width="100%" align="center"/>
 
 #### NECESSÁRIO
 * Gerenciador de pacotes como o [Yarn](https://classic.yarnpkg.com/en/docs/install/) ou [Npm](https://www.npmjs.com/get-npm)
